@@ -1,4 +1,11 @@
 {
+  "name": "Sonic Odyssey Bot",
+  "version": "1.0.0",
+  "description": "Automation BOT & Tasks from Sonic Odyssey",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@solana/web3.js": "^1.93.1",
     "bs58": "^5.0.0",
